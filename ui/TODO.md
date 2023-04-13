@@ -1,0 +1,1 @@
+- Add [LifeHash](https://github.com/BlockchainCommons/bc-lifehash) to icons.
